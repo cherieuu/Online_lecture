@@ -1,4 +1,4 @@
-# Fast_Campus 강의 자료 입니다.
+# Fast Campus 강의 자료 입니다.
 
 ----
 
